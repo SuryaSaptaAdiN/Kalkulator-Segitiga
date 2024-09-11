@@ -1,5 +1,6 @@
 # Kalkulator Segitiga
 ![image](https://github.com/user-attachments/assets/3ec5c30e-5c49-4927-8ffa-0e10e6a30d1e)
+
 Kalkulator Segitiga adalah aplikasi berbasis web yang memungkinkan pengguna untuk menghitung luas dan keliling dari berbagai jenis segitiga, termasuk segitiga sama sisi, segitiga sama kaki, segitiga sembarang, dan segitiga siku-siku. Aplikasi ini dirancang dengan antarmuka yang interaktif dan mudah digunakan, menyerupai tampilan kalkulator fisik.
 ## Fitur Utama
 - Perhitungan Luas dan Keliling: Menghitung luas dan keliling berdasarkan jenis segitiga yang dipilih.
